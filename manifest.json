@@ -1,0 +1,26 @@
+{
+	"name": "IC GPA Calculator",
+	"version": "1.0",
+	"manifest_version":2,
+	"description": "Calculates GPA on Infinite Campus",
+	"content_scripts":
+	[
+		{
+		"matches": ["https://*.naperville203.org/*"],
+		"js": ["js/background.js"]
+		}
+	],
+	"permissions":
+	[
+		"contextMenus",
+		"activeTab",
+		"tabs",
+		"https://*.naperville203.org/*"
+	],
+	"browser_action":
+	{
+		"default_icon": "icon.jpg",
+		"default_popup": "popup.html",
+		"default_title": "A popup will be here."
+	}
+}

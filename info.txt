@@ -1,0 +1,10 @@
+"matches": ["*://infinitecampus"],
+.getElementsByClassName("grading-score__row-spacing");
+
+function scrapeInformation()
+{
+    let semesterGradeList = [...document.getElementsByClassName("grades__row clickable router-link-reset")].forEach()
+    semesterGradeList.filter(e=>e.getElementsByClassName("grades__flex-row__item grades__flex-row__item--left") == "Semester Grade")
+    return semesterGradeList
+}
+scrapeInformation().forEach(e=>console.log(e.textContext()));
