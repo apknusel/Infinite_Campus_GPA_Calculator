@@ -23,7 +23,7 @@ There is one really cool feature that allows you to calculate your current GPA o
 The code intercepts the Infinite Campus load URL and reads scrapes information.
 
 ## Installation
-[Chrome Store](https://www.google.com)
+[Chrome Store](https://chrome.google.com/webstore/detail/ic-gpa-calculator/pheiepengmneoajnnebfaoekdlalehfj)
 
 ## How to use?
 To use this Chrome Extension load Infinite Campus and click the extension logo. Click Calculate GPA and then your GPA will appear.
