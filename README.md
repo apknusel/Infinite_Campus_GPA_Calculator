@@ -11,7 +11,7 @@ The motivation behind this product was because I wanted to learn JavaScript and 
 <img src="https://i.gyazo.com/000e78da0d5d2a6c34c5be0f03831e70.jpg">
 
 ## Tech/framework used
-Ex. -
+JavaScript and HTML
 
 <b>Built with</b>
 - [VSCode](https://code.visualstudio.com/)
