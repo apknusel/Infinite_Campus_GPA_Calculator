@@ -34,7 +34,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse)
             }
         }
         total = counter/grades.length;
-        sendResponse("Your current GPA is "+total);
+        sendResponse("Your current unweighted GPA is "+total);
     })
     return true;
 });

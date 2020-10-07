@@ -13,7 +13,7 @@
 	"content_scripts":
 	[
 		{
-		"matches": ["https://infinitecampus.*.org/*"],
+		"matches": ["<all_urls>"],
 		"js": ["js/background.js"]
 		}
 	],
@@ -21,7 +21,7 @@
 	[
 		"activeTab",
 		"tabs",
-		"https://infinitecampus.*.org/*"
+		"<all_urls>"
 	],
 	"browser_action":
 	{
