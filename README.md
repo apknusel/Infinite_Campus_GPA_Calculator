@@ -8,7 +8,7 @@ The motivation behind this product was because I wanted to learn JavaScript and 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-<img src="https://i.gyazo.com/000e78da0d5d2a6c34c5be0f03831e70.jpg">
+<img src="https://i.gyazo.com/6d4c9b33bd8072c05ee8058b367a4ab8.jpg">
 
 ## Tech/framework used
 JavaScript and HTML
