@@ -1,5 +1,6 @@
-<img align="center" width="192" height="192" src="https://i.gyazo.com/64a67f249e52fad1f06f97a5e27d0ffe.png">
-
+<p align="center">
+  <img width="192" height="192" src="https://i.gyazo.com/64a67f249e52fad1f06f97a5e27d0ffe.png">
+</p>
 # Table of Contents
 1. [What is it?](#Infinite_Campus_GPA_Calculator)
 2. [Motivation](#Motivation)
