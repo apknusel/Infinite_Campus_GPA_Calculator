@@ -1,4 +1,4 @@
-<img src="https://i.gyazo.com/0d042e27030445abb5ab034adef24b1f.jpg">
+<img align="center" width="192" height="192" src="https://i.gyazo.com/64a67f249e52fad1f06f97a5e27d0ffe.png">
 
 # Table of Contents
 1. [What is it?](#Infinite_Campus_GPA_Calculator)
@@ -19,6 +19,7 @@ The motivation behind this product was because I wanted to learn JavaScript and 
  
 ## Screenshots
 <img src="https://i.gyazo.com/6d4c9b33bd8072c05ee8058b367a4ab8.jpg">
+<img src="https://i.gyazo.com/0d042e27030445abb5ab034adef24b1f.jpg">
 
 ## Tech/Framework Used
 JavaScript and HTML
